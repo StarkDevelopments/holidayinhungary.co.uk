@@ -1,0 +1,20 @@
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-Agent: *
+
+
+
+Disallow: /images
+
+
+
+
+Sitemap: http://holidayinhungary.co.uk/sitemap.xml
+
